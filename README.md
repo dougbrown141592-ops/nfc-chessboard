@@ -17,3 +17,6 @@ Python code run on a Raspberry Pi 4 for the final half-board configuration. `Hum
 
 ## Libraries
 spidev, gpiozero, luma.oled, adafruit-circuitpython-pca9685, adafruit-circuitpython-motor, pyffish (Fairy-Stockfish)
+
+## Demonstration Video
+https://youtu.be/pKAiat_cqlU
